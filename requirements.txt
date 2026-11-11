@@ -1,0 +1,5 @@
+mistralai[voice-agents]>=1.5.0
+lancedb>=0.15.0
+python-dotenv>=1.0.1
+pyarrow>=16.0.0
+pyaudio>=0.2.14
